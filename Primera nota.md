@@ -3,7 +3,12 @@ Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias
 -hacer y Mandar CVs
 -continuar con el curso de MLops
 -estudiar chino a diario
--poner el cargador de auto
+-poner el cargador de auto o que avance almenos
+-ir al gym 5 dias de la siguiente semana
+-limpiar los closets de una vez por todas y acomodar el depaaaa!
+-checar cedula
+-cita para e firma
+-arreglar la bomba
 
 
 este es un cale a ver si se ven los cambios en el iphone
