@@ -7,3 +7,5 @@ Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias
 
 
 este es un cale a ver si se ven los cambios en el iphone
+
+creo que no funciono como yo esperaba, seguramente con android si se puede x_x
