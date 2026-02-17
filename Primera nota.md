@@ -9,6 +9,7 @@ Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias
 -checar cedula
 -cita para e firma
 -arreglar la bomba
+-pedir las cosas del cargado del carro
 
 
 este es un cale a ver si se ven los cambios en el iphone
