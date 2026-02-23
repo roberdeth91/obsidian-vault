@@ -1,3 +1,56 @@
+## 🧪 Stack MLOps moderno (recomendado aprender)
+
+Si quieres ser **MLOps Engineer competitivo**, apunta a este combo:
+
+### 🔹 Core
+
+- Python (obligatorio)
+- Git
+- Docker
+- CI/CD (GitHub Actions)
+
+### 🔹 Data & ML
+- Pandas / PySpark
+- Scikit-learn / XGBoost
+- MLflow ⭐
+- Feature Stores
+### 🔹 Infra & Cloud
+
+- AWS o Azure (elige uno)
+- Kubernetes (básico–intermedio)
+- Terraform (infra como código)
+### 🔹 Observabilidad
+
+- Model drift
+- Data drift
+- Monitoring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🧱 ¿Qué es Databricks?
 
 **Databricks** es una **plataforma de datos y analítica** basada en **Apache Spark**, diseñada para:
