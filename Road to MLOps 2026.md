@@ -109,26 +109,17 @@ Esto es **obligatorio** para MLOps.
 ### 📚 Qué aprender
 
 - MLflow Tracking
-    
 - Experiments
-    
 - Model Registry
-    
 - Versionado de modelos
-    
 - Reproducibilidad
-    
 
 ### 🧪 Proyecto
 
 - Entrenar varios modelos
-    
 - Trackear métricas con MLflow
-    
 - Promover modelo:
-    
     - Staging → Production
-        
 
 💡 Tip: Hazlo **local primero**, luego en cloud.
 
@@ -141,26 +132,17 @@ Aquí conectamos **datos + ML + pipelines**.
 ### 📚 Qué aprender
 
 - Databricks Workspace
-    
 - Notebooks (Python / SQL)
-    
 - Delta Lake
-    
 - Jobs
-    
 - Integración con MLflow (nativo)
-    
 
 ### 🧪 Proyecto
 
 - Dataset en S3
-    
 - Procesamiento con Spark
-    
 - Entrenamiento en Databricks
-    
 - Registro del modelo en MLflow
-    
 
 🎓 **Certificación recomendada aquí**:  
 ➡️ **Databricks Data Engineer Associate**
@@ -176,26 +158,18 @@ Aquí usas tu ventaja DevOps 💥
 ### 📚 Qué aprender
 
 - Model Serving (Databricks o SageMaker)
-    
 - Docker para inferencia
-    
 - REST APIs para modelos
-    
 - IAM + seguridad
     
 
 ### 🧪 Proyecto
 
 - Modelo servido vía endpoint
-    
 - CI/CD:
-    
     - Build imagen
-        
     - Deploy automático
-        
 - Infra mínima como código
-    
 
 ---
 
@@ -206,27 +180,18 @@ Aquí te vuelves **MLOps senior**.
 ### 📚 Qué aprender
 
 - Data drift
-    
 - Model drift
-    
 - Retraining pipelines
-    
 - Monitoring (CloudWatch / Prometheus)
-    
 - Feature Store
-    
 
 ### 🧪 Proyecto final (portfolio)
 
 **Proyecto end-to-end:**
 
+S3 → Databricks → MLflow → Model Serving → Monitoring → Retraining
 
-
-
-
-
-
-
+Este proyecto **vende muchísimo** en entrevistas.
 
 
 
