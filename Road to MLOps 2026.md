@@ -71,13 +71,9 @@ Que al terminar puedas:
 Que al terminar puedas:
 
 - Diseñar **pipelines MLOps end-to-end**
-    
 - Usar **MLflow + Databricks**
-    
 - Desplegar modelos en **AWS**
-    
 - Hablar como MLOps en entrevistas (no solo teoría)
-    
 
 ---
 
@@ -87,31 +83,20 @@ Que al terminar puedas:
 
 ### 📚 Qué aprender
 
-- Python para ML (no científico puro)
-    
+- Python para ML (no científico puro)    
 - Pandas / NumPy
-    
 - Scikit-learn
-    
 - Conceptos clave:
-    
     - Train / validation / test
-        
     - Overfitting
-        
     - Feature engineering
-        
     - Pipelines de ML
-        
 
 ### 🧪 Práctica
 
 - Modelo de clasificación o regresión
-    
 - Dataset real (Kaggle)
-    
 - Todo versionado en Git
-    
 
 📌 **No necesitas deep learning todavía**
 
