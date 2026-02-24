@@ -1,6 +1,6 @@
 Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias 
 
--hacer y Mandar CVs DOne
+-hacer un mejor CV ahora de MLOPS
 -continuar con el curso de MLops
 -estudiar chino a diario
 -poner el cargador de auto o que avance almenos
@@ -11,8 +11,9 @@ Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias
 -arreglar la bomba( quedara pendiente para cuando vuelva)
 -pedir las cosas del cargado del carro
 -comprar vuelo a gdl
+-aprender a hacer un lista de objetivos diarios de obsidian
+-aprender github actions
+-codigo de manera competitiva 
+-hacer una tarea de AWS al dia
 
 
-este es un cale a ver si se ven los cambios en el iphone
-
-creo que no funciono como yo esperaba, seguramente con android si se puede x_x
