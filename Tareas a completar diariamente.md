@@ -1,0 +1,7 @@
+- [x] Paginas matutinas
+- [ ] meditacion
+- [ ] estudiar curso AI
+- [ ] programar competitivo
+- [ ] leer
+- [ ] gym
+- [ ] 

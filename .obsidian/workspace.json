@@ -31,8 +31,7 @@
               "title": "Tareas a completar diariamente"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +193,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1ff34959e51d97c",
+  "active": "9388338945819b8b",
   "lastOpenFiles": [
+    "Tareas a completar diariamente.md",
     "Road to MLOps 2026.md",
     "Plan de la semana.md",
     "Examen de chino.md",
     "2026-02-24.md",
-    "Tareas a completar diariamente.md",
     "2026-01-16.md",
     "create a link.md"
   ]
