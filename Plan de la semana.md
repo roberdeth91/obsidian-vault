@@ -17,4 +17,4 @@ Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias
 -hacer una tarea de AWS al dia
 
 
--[]
+-[]l
