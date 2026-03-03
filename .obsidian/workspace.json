@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "0916434a6e68d5a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "5d79d975c092d6cd",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Tareas a completar diariamente"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +210,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9388338945819b8b",
+  "active": "b1ff34959e51d97c",
   "lastOpenFiles": [
+    "Recursos",
+    "Diario",
+    "Notas",
     "Tareas a completar diariamente.md",
     "Road to MLOps 2026.md",
     "Plan de la semana.md",
