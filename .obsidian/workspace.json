@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "004dc25bbde94331",
+        "id": "e80cc565ea2a1411",
         "type": "tabs",
         "children": [
           {
-            "id": "9388338945819b8b",
+            "id": "aef76490fecfd1ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,29 +22,17 @@
             }
           },
           {
-            "id": "0916434a6e68d5a0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "5d79d975c092d6cd",
+            "id": "2a0f00c607cbf97b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas a completar diariamente.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tareas a completar diariamente"
+              "title": "Untitled"
             }
           }
         ],
@@ -210,12 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1ff34959e51d97c",
+  "active": "2a0f00c607cbf97b",
   "lastOpenFiles": [
+    "Tareas a completar diariamente.md",
+    "Untitled.md",
+    "Notas/Untitled.md",
+    "_Templates/nota-template.md",
+    "_Templates",
     "Recursos",
     "Diario",
     "Notas",
-    "Tareas a completar diariamente.md",
     "Road to MLOps 2026.md",
     "Plan de la semana.md",
     "Examen de chino.md",
