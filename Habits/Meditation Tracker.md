@@ -1,6 +1,6 @@
 ```tracker
-searchType: frontmatter
-searchTarget: meditacion
+searchType: frontmatter 
+searchTarget: meditation
 folder: _Templates
 month:
 ```
