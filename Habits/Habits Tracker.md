@@ -63,8 +63,8 @@ month:
 ```
 ```tracker
 searchType: frontmatter 
-searchTarget: comPrograming
+searchTarget: comProgramming
 folder: Journal/Dialy
-datasetName: comPrograming
+datasetName: comProgramming
 month:
 ```
