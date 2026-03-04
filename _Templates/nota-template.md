@@ -7,7 +7,7 @@ mood: good
 meditation:
 morningPages:
 gym:
-competitivePrograming:
+comPrograming:
 chino:
 leer:
 Udemy:

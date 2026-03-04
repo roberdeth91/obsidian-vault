@@ -42,15 +42,29 @@ month:
 
 ```tracker
 searchType: frontmatter 
-searchTarget: udemy
+searchTarget: Udemy
 folder: Journal/week
-datasetName: udemy
+datasetName: Udemy
 month:
 ```
 ```tracker
 searchType: frontmatter 
-searchTarget: kodeKloude
+searchTarget: kodeKloud
 folder: Journal/week
-datasetName: chino
+datasetName: kodeKloud
+month:
+```
+```tracker
+searchType: frontmatter 
+searchTarget: AI
+folder: Journal/week
+datasetName: AI
+month:
+```
+```tracker
+searchType: frontmatter 
+searchTarget: comPrograming
+folder: Journal/week
+datasetName: comPrograming
 month:
 ```
