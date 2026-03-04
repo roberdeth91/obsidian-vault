@@ -1,22 +1,22 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
-time: <% tp.date.now("HH:mm") %>
+date: {{date}}
+time: {{time}}
 tags: [daily, journal]
-mood: good
-meditation: 0
-morningPages: 0
-gym: 0
-comProgramming: 0
-chino: 0
-leer: 0
-Udemy: 0
-AI: 0
-kodeKloud: 0
+
+mood:
+meditation:
+morningPages:
+gym:
+comProgramming:
+chino:
+leer:
+Udemy:
+AI:
+kodeKloud:
 ---
 
-
-📅 Fecha: date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-🕐 Hora: time: <% tp.date.now("HH:mm") %> 
+📅 Fecha: {{date}}  
+🕐 Hora: {{time}}
 🏷️ Tags: #dialy #journal 
 
 ## 💡 Idea principal
