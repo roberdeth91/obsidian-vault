@@ -7,7 +7,7 @@ Lo primero que voy a anotar seran mi objetivos de los proximos 7 dias
 - [ ] ir al gym 5 dias de la siguiente semana (2/5)
 - [ ] limpiar los closets de una vez por todas y acomodar el depaaaa!
 - [ ] checar cedula
-- [ ] cita para e firma
+- [x] cita para e firma
 - [ ] arreglar la bomba( quedara pendiente para cuando vuelva)
 - [ ] pedir las cosas del cargado del carro
 - [x] comprar vuelo a gdl(done)

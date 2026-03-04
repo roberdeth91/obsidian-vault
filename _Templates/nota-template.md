@@ -4,8 +4,9 @@
 🕐 Hora: {{time:HH:mm}}  
 🏷️ Tags: #
 
-
-
+##habitos
+meditatcion : 1
+ 
 ---
 
 ## 💡 Idea principal
