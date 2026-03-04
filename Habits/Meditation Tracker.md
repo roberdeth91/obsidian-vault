@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter 
-searchTarget: gym
+searchTarget: meditation
 folder: Journal
 month:
 ```
