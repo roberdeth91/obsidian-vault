@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter 
-searchTarget: meditation
-folder: _Templates
+searchTarget: gym
+folder: Journal
 month:
 ```
