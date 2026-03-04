@@ -1,5 +1,14 @@
 # {{title}}
 
+---
+date: 2026-03-03
+tags: [daily, journal]
+mood: good
+meditacion: 1
+
+---
+
+
 📅 Fecha: {{date:YYYY-MM-DD}}  
 🕐 Hora: {{time:HH:mm}}  
 🏷️ Tags: #

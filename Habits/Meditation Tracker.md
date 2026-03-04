@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter
 searchTarget: meditacion
-folder: _Template
-month
+folder: _Templates
+month:
 ```
