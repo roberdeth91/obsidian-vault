@@ -2,7 +2,7 @@
 ```tracker
 searchType: frontmatter 
 searchTarget: meditation
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: Meditation
 month:
 ```
@@ -10,7 +10,7 @@ month:
 ```tracker
 searchType: frontmatter 
 searchTarget: morningPages
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: Paginas Matutinas
 month:
 ```
@@ -18,7 +18,7 @@ month:
 ```tracker
 searchType: frontmatter 
 searchTarget: gym
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: gym
 month:
 ```
@@ -26,7 +26,7 @@ month:
 ```tracker
 searchType: frontmatter 
 searchTarget: chino
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: chino
 month:
 ```
@@ -35,7 +35,7 @@ month:
 ```tracker
 searchType: frontmatter 
 searchTarget: leer
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: leer
 month:
 ```
@@ -43,21 +43,21 @@ month:
 ```tracker
 searchType: frontmatter 
 searchTarget: Udemy
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: Udemy
 month:
 ```
 ```tracker
 searchType: frontmatter 
 searchTarget: kodeKloud
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: kodeKloud
 month:
 ```
 ```tracker
 searchType: frontmatter 
 searchTarget: AI
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: AI
 month:
 ```
