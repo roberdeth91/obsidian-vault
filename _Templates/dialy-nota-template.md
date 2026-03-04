@@ -1,5 +1,5 @@
 ---
-date: 2026-03-04
+'date: <% tp.date.now("YYYY-MM-DD HH:mm") %>date': 2026-03-04
 tags:
   - daily
   - journal
@@ -17,7 +17,7 @@ kodeKloud:
 
 # 2026-03-04
 
-📅 Fecha: 2026-03-04  
+📅 Fecha: date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 🕐 Hora: 23:44  
 🏷️ Tags: #
 
