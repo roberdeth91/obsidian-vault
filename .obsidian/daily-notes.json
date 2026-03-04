@@ -1,4 +1,4 @@
 {
-  "folder": "Journal",
-  "template": "Journal/nota-template"
+  "folder": "Journal/week",
+  "template": "_Templates/nota-template"
 }

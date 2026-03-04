@@ -7,6 +7,12 @@ mood: good
 meditation:
 morningPages:
 gym:
+competitivePrograming:
+chino:
+leer:
+Udemy:
+AI:
+kodeKloud:
 ---
 
 # 2026-03-04
