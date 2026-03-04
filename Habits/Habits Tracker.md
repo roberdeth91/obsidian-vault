@@ -19,6 +19,38 @@ month:
 searchType: frontmatter 
 searchTarget: gym
 folder: Journal/week
-datasetName: 
+datasetName: gym
+month:
+```
+
+```tracker
+searchType: frontmatter 
+searchTarget: chino
+folder: Journal/week
+datasetName: chino
+month:
+```
+
+
+```tracker
+searchType: frontmatter 
+searchTarget: leer
+folder: Journal/week
+datasetName: leer
+month:
+```
+
+```tracker
+searchType: frontmatter 
+searchTarget: udemy
+folder: Journal/week
+datasetName: udemy
+month:
+```
+```tracker
+searchType: frontmatter 
+searchTarget: kodeKloude
+folder: Journal/week
+datasetName: chino
 month:
 ```
