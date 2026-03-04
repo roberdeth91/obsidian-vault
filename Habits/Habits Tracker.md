@@ -1,7 +1,9 @@
+
 ```tracker
 searchType: frontmatter 
 searchTarget: meditation
 folder: Journal/week
+datasetName: Meditation
 month:
 ```
 
@@ -9,12 +11,14 @@ month:
 searchType: frontmatter 
 searchTarget: morningPages
 folder: Journal/week
+datasetName: Paginas Matutinas
 month:
 ```
 
 ```tracker
 searchType: frontmatter 
-searchTarget: meditation
+searchTarget: gym
 folder: Journal/week
+datasetName: 
 month:
 ```
