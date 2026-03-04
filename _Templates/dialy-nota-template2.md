@@ -1,21 +1,19 @@
 ---
-'date: <% tp.date.now("YYYY-MM-DD HH:mm") %>date': 2026-03-04
-tags:
-  - daily
-  - journal
-mood:
-meditation:
-morningPages:
-gym:
-comPrograming:
-chino:
-leer:
-Udemy:
-AI:
-kodeKloud:
+date: <% tp.date.now("YYYY-MM-DD") %>
+time: <% tp.date.now("HH:mm") %>
+tags: [daily, journal]
+mood: good
+meditation: 0
+morningPages: 0
+gym: 0
+comProgramming: 0
+chino: 0
+leer: 0
+Udemy: 0
+AI: 0
+kodeKloud: 0
 ---
 
-# 2026-03-04
 
 📅 Fecha: date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 🕐 Hora: time: <% tp.date.now("HH:mm") %> 
