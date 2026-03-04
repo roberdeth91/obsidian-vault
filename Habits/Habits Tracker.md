@@ -64,7 +64,7 @@ month:
 ```tracker
 searchType: frontmatter 
 searchTarget: comPrograming
-folder: Journal/week
+folder: Journal/Dialy
 datasetName: comPrograming
 month:
 ```
