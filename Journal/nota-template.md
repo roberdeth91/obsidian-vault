@@ -4,7 +4,9 @@
 date: 2026-03-03
 tags: [daily, journal]
 mood: good
-meditacion: 
+meditation: 
+morningPages:
+gym:
 
 ---
 
@@ -13,9 +15,6 @@ meditacion:
 🕐 Hora: {{time:HH:mm}}  
 🏷️ Tags: #
 
-##habitos
-meditatcion : 1
- 
 ---
 
 ## 💡 Idea principal
