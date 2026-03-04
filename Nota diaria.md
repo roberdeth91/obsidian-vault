@@ -1,9 +1,13 @@
-# Untitled
+# practica
+
 
 📅 Fecha: 2026-03-03  
 🕐 Hora: 00:53  
 🏷️ Tags: #
 
+---
+meditacion:
+---
 ---
 
 ## 💡 Idea principal

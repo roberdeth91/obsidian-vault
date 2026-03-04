@@ -4,6 +4,8 @@
 🕐 Hora: {{time:HH:mm}}  
 🏷️ Tags: #
 
+
+
 ---
 
 ## 💡 Idea principal
