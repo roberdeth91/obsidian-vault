@@ -59,7 +59,7 @@ study_hours:
 - [ ] continuar con el curso de MLops
 - [x] estudiar chino a diario
 - [ ] poner el cargador de auto o que avance almenos
-- [ ] ir al gym 5 dias de la siguiente semana (2/5)
+- [x] ir al gym 5 dias de la siguiente semana (2/5)
 - [ ] limpiar los closets de una vez por todas y acomodar el depaaaa!
 - [ ] checar cedula
 - [x] cita para e firma
@@ -68,7 +68,7 @@ study_hours:
 - [x] comprar vuelo a gdl(done)
 - [ ] aprender a hacer un lista de objetivos diarios de obsidian
 - [ ] aprender github actions
-- [ ] comprar vitaminas
+- [x] comprar vitaminas
 - [ ] comprar vuelos gdl,cdmx
 - [ ] hacerme los lavados y checarme los oidos
 - [ ] cambiar la musica a ytmusic
