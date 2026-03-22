@@ -74,7 +74,7 @@ study_hours:
 - [ ] cambiar la musica a ytmusic
 - [ ] buscar seguro, que cubra viajes
 - [ ] examenes medicos
-- [ ] arte, guitarra foto
+- [ ] arte, guitarra, foto
 
 ---
 
