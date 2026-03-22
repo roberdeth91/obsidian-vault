@@ -68,6 +68,13 @@ study_hours:
 - [x] comprar vuelo a gdl(done)
 - [ ] aprender a hacer un lista de objetivos diarios de obsidian
 - [ ] aprender github actions
+- [ ] comprar vitaminas
+- [ ] comprar vuelos gdl,cdmx
+- [ ] hacerme los lavados y checarme los oidos
+- [ ] cambiar la musica a ytmusic
+- [ ] buscar seguro, que cubra viajes
+- [ ] examenes medicos
+- [ ] arte, guitarra foto
 
 ---
 
