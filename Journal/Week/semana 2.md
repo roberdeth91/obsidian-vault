@@ -66,7 +66,7 @@ study_hours:
 - [x] arreglar la bomba( quedara pendiente para cuando vuelva)
 - [ ] pedir las cosas del cargado del carro
 - [x] comprar vuelo a gdl(done)
-- [ ] aprender a hacer un lista de objetivos diarios de obsidian
+- [x] aprender a hacer un lista de objetivos diarios de obsidian
 - [ ] aprender github actions
 - [x] comprar vitaminas
 - [ ] comprar vuelos gdl,cdmx
