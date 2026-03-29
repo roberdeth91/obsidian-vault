@@ -69,13 +69,14 @@ study_hours:
 - [x] aprender a hacer un lista de objetivos diarios de obsidian
 - [ ] aprender github actions
 - [x] comprar vitaminas
-- [ ] comprar vuelos gdl
+- [x] comprar vuelos gdl
 - [ ] hacerme los lavados y checarme los oidos
 - [ ] cambiar la musica a ytmusic
 - [ ] buscar seguro, que cubra viajes
 - [ ] examenes medicos
 - [ ] arte, guitarra, foto
-- [ ] rentar traje
+- [x] rentar traje
+- [ ] curso udacity
 
 ---
 
