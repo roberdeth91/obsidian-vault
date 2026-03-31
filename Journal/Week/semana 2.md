@@ -77,7 +77,7 @@ study_hours:
 - [ ] arte, guitarra, foto
 - [x] rentar traje
 - [ ] curso udacity
-- [ ] meter la apuesta a japon
+- [x] meter la apuesta a japon
 
 ---
 
