@@ -42,9 +42,9 @@ month:
 
 ```tracker
 searchType: frontmatter 
-searchTarget: Udemy-KodeKloude
+searchTarget: Udemy-KodeKloud
 folder: Journal/Dialy
-datasetName: Udemy
+datasetName: Udemy-KodeKloud
 month:
 ```
 ```tracker
@@ -71,15 +71,15 @@ month:
 
 ```tracker
 searchType: frontmatter 
-searchTarget: korn
+searchTarget: guitarra
 folder: Journal/Dialy
-datasetName: comProgramming
+datasetName: guitarra
 month:
 ```
 ```tracker
 searchType: frontmatter 
-searchTarget: comProgramming
+searchTarget: worthy
 folder: Journal/Dialy
-datasetName: comProgramming
+datasetName: worthy
 month:
 ```
