@@ -1,18 +1,21 @@
 ---
-date: {{date}}
-time: {{time}}
-tags: [daily, journal]
-
-mood:
+date:
+  "{ date }":
+time:
+  "{ time }":
+tags:
+  - daily
+  - journal
+worthy:
 meditation:
 morningPages:
 gym:
 comProgramming:
 chino:
 leer:
-Udemy:
+Udemy-KodeKoud:
 AI:
-kodeKloud:
+guitarra:
 ---
 
 📅 Fecha: {{date}}  

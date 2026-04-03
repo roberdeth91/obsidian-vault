@@ -42,7 +42,7 @@ month:
 
 ```tracker
 searchType: frontmatter 
-searchTarget: Udemy
+searchTarget: Udemy-KodeKloude
 folder: Journal/Dialy
 datasetName: Udemy
 month:
@@ -59,6 +59,21 @@ searchType: frontmatter
 searchTarget: AI
 folder: Journal/Dialy
 datasetName: AI
+month:
+```
+```tracker
+searchType: frontmatter 
+searchTarget: comProgramming
+folder: Journal/Dialy
+datasetName: comProgramming
+month:
+```
+
+```tracker
+searchType: frontmatter 
+searchTarget: korn
+folder: Journal/Dialy
+datasetName: comProgramming
 month:
 ```
 ```tracker
