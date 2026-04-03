@@ -49,9 +49,9 @@ month:
 ```
 ```tracker
 searchType: frontmatter 
-searchTarget: kodeKloud
+searchTarget: korn
 folder: Journal/Dialy
-datasetName: kodeKloud
+datasetName: korn
 month:
 ```
 ```tracker
@@ -59,13 +59,6 @@ searchType: frontmatter
 searchTarget: AI
 folder: Journal/Dialy
 datasetName: AI
-month:
-```
-```tracker
-searchType: frontmatter 
-searchTarget: comProgramming
-folder: Journal/Dialy
-datasetName: comProgramming
 month:
 ```
 

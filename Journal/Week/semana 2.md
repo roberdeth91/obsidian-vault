@@ -78,6 +78,10 @@ study_hours:
 - [x] rentar traje
 - [ ] curso udacity
 - [x] meter la apuesta a japon
+- [ ] poner limite de tiempo al celular
+- [ ] trak de paj@
+- [ ] meter vuelos
+- [ ] volver a hacer juicio semanal estoico
 
 ---
 
