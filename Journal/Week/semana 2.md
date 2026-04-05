@@ -82,7 +82,13 @@ study_hours:
 - [ ] trak de paj@
 - [ ] meter vuelos
 - [ ] volver a hacer juicio semanal estoico
-
+- [ ] corn
+- [ ] paja
+- [ ] send nudes
+- [ ] procastinar
+- [ ] usar mucho el cel
+- [ ] no seguir mis metas
+- [ ] no cumplir las cosas que digo que hare
 ---
 
 # 🔁 Comparación con la semana pasada
