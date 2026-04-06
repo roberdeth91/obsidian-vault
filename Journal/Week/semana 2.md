@@ -89,6 +89,7 @@ study_hours:
 - [ ] usar mucho el cel
 - [ ] no seguir mis metas
 - [ ] no cumplir las cosas que digo que hare
+- [ ] instalar las camaras
 ---
 
 # 🔁 Comparación con la semana pasada
