@@ -78,18 +78,11 @@ study_hours:
 - [x] rentar traje
 - [ ] curso udacity
 - [x] meter la apuesta a japon
-- [ ] poner limite de tiempo al celular
-- [ ] trak de paj@
-- [ ] meter vuelos
-- [ ] volver a hacer juicio semanal estoico
-- [ ] corn
-- [ ] paja
-- [ ] send nudes
-- [ ] procastinar
-- [ ] usar mucho el cel
-- [ ] no seguir mis metas
-- [ ] no cumplir las cosas que digo que hare
 - [ ] instalar las camaras
+- [ ] sacar dinero de desempleado
+- [ ] estudiar cosas de devops al dia
+- [ ] seguro del carro
+- [ ] mantenimiento de pintura del auto
 ---
 
 # 🔁 Comparación con la semana pasada
