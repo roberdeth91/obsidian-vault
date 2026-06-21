@@ -83,6 +83,7 @@ study_hours:
 - [ ] estudiar cosas de devops al dia
 - [ ] seguro del carro
 - [ ] mantenimiento de pintura del auto
+- [ ] cancelar subscripciones
 ---
 
 # 🔁 Comparación con la semana pasada
