@@ -84,6 +84,7 @@ study_hours:
 - [ ] seguro del carro
 - [ ] mantenimiento de pintura del auto
 - [ ] cancelar subscripciones
+- [ ] hacer cita de facial
 ---
 
 # 🔁 Comparación con la semana pasada
