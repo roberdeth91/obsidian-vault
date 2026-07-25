@@ -81,10 +81,12 @@ study_hours:
 - [ ] instalar las camaras
 - [ ] sacar dinero de desempleado
 - [ ] estudiar cosas de devops al dia
+- [ ] estudiar API
+- [ ] comprar regalos de cumple atrasados
 - [ ] seguro del carro
 - [ ] mantenimiento de pintura del auto
 - [ ] cancelar subscripciones
-- [ ] hacer cita de facial
+- [x] hacer cita de facial
 ---
 
 # 🔁 Comparación con la semana pasada
