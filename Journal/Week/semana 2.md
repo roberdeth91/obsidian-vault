@@ -82,6 +82,7 @@ study_hours:
 - [ ] sacar dinero de desempleado
 - [ ] estudiar cosas de devops al dia
 - [ ] estudiar API
+- [ ] estudiar base de datos almenos las bases
 - [ ] comprar regalos de cumple atrasados
 - [ ] seguro del carro
 - [ ] mantenimiento de pintura del auto
