@@ -87,6 +87,7 @@ study_hours:
 - [ ] seguro del carro
 - [ ] mantenimiento de pintura del auto
 - [ ] cancelar subscripciones
+- [ ] checar bien cv para saber que edcir cuando me pregunten de cada cosa
 - [x] hacer cita de facial
 ---
 
