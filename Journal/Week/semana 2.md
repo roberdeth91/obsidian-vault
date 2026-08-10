@@ -86,8 +86,9 @@ study_hours:
 - [ ] comprar regalos de cumple atrasados
 - [ ] seguro del carro
 - [ ] mantenimiento de pintura del auto
-- [ ] cancelar subscripciones
+- [x] cancelar subscripciones
 - [ ] checar bien cv para saber que edcir cuando me pregunten de cada cosa
+- [ ] checar los repos guardados de linkedin para entrevistas
 - [x] hacer cita de facial
 ---
 
