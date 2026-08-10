@@ -49,8 +49,10 @@ study_hours:
 
 # 🧠 Lecciones importantes
 - 
-- 
-- 
+- El patrón general que vas a ver en TODA tu carrera de DevOps
+
+Este patrón de "agregar llave GPG + agregar repo + apt update + apt install" es prácticamente universal para instalar software de terceros en sistemas basados en Debian/Ubuntu (Docker, Jenkins, Kubernetes/kubectl, Terraform, Grafana, casi cualquier herramienta seria de infraestructura lo hace así). Vale mucho la pena que lo reconozcas, porque lo vas a repetir en el Proyecto 4 cuando instales Grafana y en varios lugares más.
+- AALR910525DR7
 
 ---
 
@@ -89,6 +91,7 @@ study_hours:
 - [x] cancelar subscripciones
 - [ ] checar bien cv para saber que edcir cuando me pregunten de cada cosa
 - [ ] checar los repos guardados de linkedin para entrevistas
+- [ ] llaves  y ca-certificates
 - [x] hacer cita de facial
 ---
 
