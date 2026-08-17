@@ -92,6 +92,7 @@ Este patrón de "agregar llave GPG + agregar repo + apt update + apt install" es
 - [ ] checar bien cv para saber que edcir cuando me pregunten de cada cosa
 - [ ] checar los repos guardados de linkedin para entrevistas
 - [ ] llaves  y ca-certificates
+- [ ] recoger hsk2
 - [x] hacer cita de facial
 ---
 
