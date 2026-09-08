@@ -93,7 +93,14 @@ Este patrón de "agregar llave GPG + agregar repo + apt update + apt install" es
 - [ ] checar los repos guardados de linkedin para entrevistas
 - [ ] llaves  y ca-certificates
 - [ ] recoger hsk2
-- [ ] plan para 
+- [ ] plan para certificacion de solutions arquitec de aws
+- [ ] estudiar chino bien bien ya casi nos vamos a china
+- [ ] comprar vuelos faltantes el de la cdmx
+- [ ] comprar boleto a iron mainden
+- [ ] pagar el auto completo
+- [ ] comprar hotel faltante de tokio
+- [ ] avisar de todo a camilo
+- [ ] organizar el money para sacar el auto
 - [x] hacer cita de facial
 ---
 
