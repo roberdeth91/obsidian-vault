@@ -4,3 +4,4 @@ git config --global user.email "email"
 git config --list
 git status
 git add 
+git diff --staged
