@@ -46,4 +46,7 @@ Create and checkout a branch = git checkout -b (branch name) Retrieve/download f
 merge branch or tracking-branch = git merge (branch or tracking branch name) 
 Show status = git status 
 Upload to a remote = git push (remote name) (branch name) 
-stage an edit = git add (filename) make a commit = git commit -m "description" stage and commit = git commit -a -m "description" List local branches = git branch List remote branches = git branch -r List both local and remote branches = git branch -a
+stage an edit = git add (filename) make a commit = git commit -m "description" stage and commit = git commit -a -m "description" 
+List local branches = git branch List remote branches = git branch -r List both local and remote branches = git branch -a
+
+
