@@ -15,3 +15,6 @@ git commit -m "Restaurar s2"
 git switch -c nueva` (o `checkout -b`) → crea la rama y te cambia a ella en un solo paso.
 
  git branch --merged (para ver que branches estan merged)
+ git branch -d  (delete branch)
+ 
+ 3 way merge vs fast foward merge
