@@ -35,3 +35,15 @@ git switch -c nueva` (o `checkout -b`) → crea la rama y te cambia a ella en un
  git stash list -p = list stash points and show diffs per stash git stash apply = apply most recent stash 
  git stash pop = apply most recent stash, and remove it from saved stashes 
  git stash apply (stash reference) = apply a specific stash point git stash save "(description)" = create a stash point, be more descriptive
+
+
+
+Retrieve/Clone a repo = git clone (URL) 
+List remotes = git remote (-v for detail) 
+Commit graph = git log --all --decorate --oneline --graph 
+Checkout a branch = git checkout 
+Create and checkout a branch = git checkout -b (branch name) Retrieve/download from a remote = git fetch (remote name) 
+merge branch or tracking-branch = git merge (branch or tracking branch name) 
+Show status = git status 
+Upload to a remote = git push (remote name) (branch name) 
+stage an edit = git add (filename) make a commit = git commit -m "description" stage and commit = git commit -a -m "description" List local branches = git branch List remote branches = git branch -r List both local and remote branches = git branch -a
