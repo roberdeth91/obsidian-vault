@@ -18,3 +18,5 @@ git switch -c nueva` (o `checkout -b`) → crea la rama y te cambia a ella en un
  git branch -d  (delete branch)
  
  3 way merge vs fast foward merge
+ 
+ git switch --detach abc123 
